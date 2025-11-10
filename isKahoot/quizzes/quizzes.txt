@@ -1,0 +1,31 @@
+{
+ " quizzes ": [
+ {
+ " name ": "PCD -1",
+ " questions ": [
+ {
+ " question ": "O␣ que ␣ ␣ uma ␣ thread ?",
+ " points ": 5,
+ " correct ": 3,
+ " options ": [
+ " Processo ",
+ " A p l i c a o ",
+ " Programa ",
+
+ " Processo ␣ Ligeiro "
+ ]
+ },
+ {
+ " question ": " Qual ␣ destas ␣ o p e s ␣ n o ␣ ␣um␣
+→ m t o d o ␣ bloqueante ?",
+ " points ": 3,
+ " correct ": 2,
+ " options ": [
+ " join ()",
+ " sleep ( <millis >)",
+ " interrupted ()",
+ " wait ()"
+ ]
+ }]
+ }
+}
